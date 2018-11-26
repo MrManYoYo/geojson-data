@@ -12,7 +12,7 @@
 
 ![陵水县](./preview/lingshui.jpg)
 
-![高邮市](./preview/gaoyou.jpg)
+![高邮市](./preview/gaoyou.png)
 
 ## 说明
 
