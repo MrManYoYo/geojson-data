@@ -4,12 +4,15 @@
 
 - 陵水县
 - 南通市
+- 高邮市
 
 ## 预览
 
 ![南通市](./preview/nantong.jpg)
 
 ![陵水县](./preview/lingshui.jpg)
+
+![高邮市](./preview/gaoyou.jpg)
 
 ## 说明
 
